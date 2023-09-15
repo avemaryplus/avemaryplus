@@ -41,4 +41,3 @@
 
 ---
 
- <img height="250px" align="center" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=avemaryplus&layout=compact&theme=vision-friendly-dark" />
