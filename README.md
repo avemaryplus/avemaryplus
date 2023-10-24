@@ -1,16 +1,23 @@
 
 # Приветствую, меня зовут Мария! 🙋‍♀️
 ### :woman_technologist: Обо мне:
-Я начинающий Full Stack web-developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Казахстана.
-Прохожу курсы в Attractor School. Я узнала много нового и начала создавать свои первые проекты. Мне очень нравится видеть, как моя работа начинает превращаться в функционирующее приложение.
+Я Full Stack web-developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Казахстана.
+Прошла курсы в Attractor School. Я узнала много нового и начала создавать свои проекты. Мне очень нравится видеть, как моя работа начинает превращаться в функционирующее приложение.
 
-Я знаю, что в мире программирования есть еще так много, чего я не знаю, и это непрерывно мотивирует меня учиться и развиваться дальше. Я хочу создавать новые, инновационные вещи и делать мир лучше с помощью технологий.   
-
-- 🤓   Являюсь студентом на курсе Full-stack Javascript разработки Attractor School.
+- 🤓 Выпускник курса Full-stack Javascript разработки Attractor School.
 
 - 📫   Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/avemaryplus) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:avemarysolt@gmail.com)
 
 ---
+### Портфолио
+ - [Меню ресторана](https://avemaryplus.github.io/restaurant_menu/)
+ - [Поисковик по коктелям](https://avemaryplus.github.io/cocktail-search/)
+ - [Список задач (Todo-list)](https://avemaryplus.github.io/todo-list/)
+ - [Дневник путешественника](https://avemaryplus.github.io/travel-diary/)
+ - [Справочник по Покемонам :D](https://avemaryplus.github.io/list-pokemons/)
+
+
+
 ### 💻 Технологии:
 <div>
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
