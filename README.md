@@ -1,20 +1,30 @@
 
-# Приветствую, меня зовут Мария! 🙋‍♀️
+# Приветствую! 🙋‍♀️
 ### :woman_technologist: Обо мне:
-Я Full Stack web-developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Казахстана.
-Прошла курсы в Attractor School. Я узнала много нового и начала создавать свои проекты. Мне очень нравится видеть, как моя работа начинает превращаться в функционирующее приложение.
 
-- 🤓 Выпускник курса Full-stack Javascript разработки Attractor School.
+Меня зовут Мария, и я Full Stack веб-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Казахстана.
+Я являюсь выпускником курса Full-stack Javascript разработки в Attractor School. За время обучения я узнала множество нового и начала создавать свои увлекательные проекты. Меня вдохновляет видеть, как мои идеи превращаются в функционирующие приложения.
 
-- 📫   Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/avemaryplus) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:avemarysolt@gmail.com)
+🎓 **Образование:** Выпускница курса Full-stack Javascript разработки в Attractor School.
+
+ 📫**Как связаться со мной:**
+ - [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/avemaryplus)
+ - [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:avemarysolt@gmail.com)
+
+🌟 **Технические навыки:**
+
+ - **Frontend:** React, JavaScript, TypeScript, Redux,  HTML5, CSS3, Bootstrap, Material UI
+ - **Backend:** Node.js, Express.js, MySQL
+
+💡 **Дополнительно:** Опыт работы с Git, Photoshop, Figma, Linux, Adobe Illustrator.
 
 ---
 ### Портфолио
- - [Меню ресторана](https://avemaryplus.github.io/restaurant_menu/)
- - [Поисковик по коктелям](https://avemaryplus.github.io/cocktail-search/)
- - [Список задач (Todo-list)](https://avemaryplus.github.io/todo-list/)
- - [Дневник путешественника](https://avemaryplus.github.io/travel-diary/)
- - [Справочник по Покемонам :D](https://avemaryplus.github.io/list-pokemons/)
+ - [Меню ресторана](https://avemaryplus.github.io/restaurant_menu/) -  Имитатор главной страницы ресторанного меню с функционалом добавления блюд в корзину и размещения заказа.
+ - [Поисковик по коктелям](https://avemaryplus.github.io/cocktail-search/) - Приложение для поиска рецептов коктейлей по названиям коктейлей.
+ - [Список задач (Todo-list)](https://avemaryplus.github.io/todo-list/) -  Простое приложение для управления задачами и списком дел.
+ - [Дневник путешественника](https://avemaryplus.github.io/travel-diary/) - Веб-приложение для ведения дневника ваших путешествий с возможностью добавления даты, страны и заметок.
+ - [Справочник по Покемонам :D](https://avemaryplus.github.io/list-pokemons/) -  Интерактивный справочник с информацией о различных Покемонах.
 
 
 
