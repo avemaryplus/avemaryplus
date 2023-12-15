@@ -1,8 +1,8 @@
 
 # Приветствую! 🙋‍♀️
-### :woman_technologist: Обо мне:
+### Обо мне:
 
-Меня зовут Мария, и я Full Stack веб-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Казахстана.
+Меня зовут Мария и я JavaScript (React, Node.js) разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Казахстана.
 Являюсь выпускницей курса Full-stack Javascript разработки в Attractor School Almaty.
 
  📫**Как связаться со мной:**
