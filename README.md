@@ -3,18 +3,17 @@
 ### :woman_technologist: Обо мне:
 
 Меня зовут Мария, и я Full Stack веб-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Казахстана.
-Я являюсь выпускником курса Full-stack Javascript разработки в Attractor School. За время обучения я узнала множество нового и начала создавать свои проекты. Меня вдохновляет видеть, как мои идеи превращаются в функционирующие приложения.
-
-🎓 **Образование:** Выпускница курса Full-stack Javascript разработки в Attractor School.
+Являюсь выпускницей курса Full-stack Javascript разработки в Attractor School Almaty.
 
  📫**Как связаться со мной:**
  - [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/avemaryplus)
  - [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:avemarysolt@gmail.com)
-
+ - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](mailto:avemarysolt@gmail.com)
+   
 🌟 **Технические навыки:**
 
- - **Frontend:** React, JavaScript, TypeScript, Redux,  HTML5, CSS3, Bootstrap, Material UI
- - **Backend:** Node.js, Express.js, MySQL
+ - **Frontend:** React, JavaScript, TypeScript, Redux,React Query,  HTML5, CSS3, Scss, Bootstrap, Material UI, Ant Design
+ - **Backend:** Node.js, Express.js, MySQL, Axios, TypeORM, JWT, cookie, Swagger
 
 💡 **Дополнительно:** Опыт работы с Git, Photoshop, Figma, Linux, Adobe Illustrator.
 
