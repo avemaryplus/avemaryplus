@@ -8,7 +8,7 @@
  📫**Как связаться со мной:**
  - [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/avemaryplus)
  - [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:avemarysolt@gmail.com)
- - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](mailto:avemarysolt@gmail.com)
+ - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/avemaryplus/)
    
 🌟 **Технические навыки:**
 
