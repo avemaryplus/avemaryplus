@@ -3,7 +3,6 @@
 ### Обо мне:
 
 Меня зовут Мария и я JavaScript (React, Node.js) разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Казахстана.
-Являюсь выпускницей курса Full-stack Javascript разработки в Attractor School Almaty.
 
  📫**Как связаться со мной:**
  - [![Telegram Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/avemaryplus)
@@ -12,36 +11,30 @@
    
 🌟 **Технические навыки:**
 
- - **Frontend:** React, JavaScript, TypeScript, Redux,React Query,  HTML5, CSS3, Scss, Bootstrap, Material UI, Ant Design
- - **Backend:** Node.js, Express.js, MySQL, Axios, TypeORM, JWT, cookie, Swagger
+ - **Frontend:** React, JavaScript, SvelteKit, TypeScript, Redux,React Query,  HTML5, CSS3, Scss, Bootstrap, Material UI, Ant Design
+ - **Backend:** Node.js, Express.js, MySQL, Axios, TypeORM, JWT, cookie, Swagger, Docker, Nginx
 
-💡 **Дополнительно:** Опыт работы с Git, Photoshop, Figma, Linux, Adobe Illustrator.
+💡 **Дополнительно:** Git, Photoshop, Figma, Linux, Adobe Illustrator.
 
 ---
-### Портфолио
- - [Меню ресторана](https://avemaryplus.github.io/restaurant_menu/) -  Имитатор главной страницы ресторанного меню с функционалом добавления блюд в корзину и размещения заказа.
- - [Поисковик по коктейлям](https://avemaryplus.github.io/cocktail-search/) - Приложение для поиска рецептов коктейлей по их названиям.
- - [Список задач (Todo-list)](https://avemaryplus.github.io/todo-list/) -  Простое приложение для управления задачами и списком дел.
- - [Дневник путешественника](https://avemaryplus.github.io/travel-diary/) - Веб-приложение для ведения дневника ваших путешествий с возможностью добавления даты, страны и заметок.
- - [Справочник по Покемонам :D](https://avemaryplus.github.io/list-pokemons/) -  Интерактивный справочник с информацией о различных Покемонах.
-
-
 
 ### 💻 Технологии:
 <div>
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-  <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>   
-  <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
-<a href="http://getbem.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="50" /></a>  
-
+<img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black' alt=''/>
+<img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white' alt=''/>
+<img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' alt=''/>
+<img src='https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00' alt=''/>
+<img src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white' alt=''/>
+<img src='https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white' alt=''/>
+<img src='https://img.shields.io/badge/Express.js-404D59?style=for-the-badge' alt=''/>
+<img src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white' alt=''/>
+<img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white' alt=''/>
+<img src='https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white' alt=''/>
+<img src='https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white' alt=''/>
+<img src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white' alt=''/>
+<img src='https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white' alt=''/>
+ <img src='https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white' alt=''/>
+ <img src='https://img.shields.io/badge/TypeORM-FF6347?style=for-the-badge&logo=TypeScript&logoColor=white' alt=''/>
 </div>
 
 ---
@@ -56,4 +49,4 @@
 </div>
 
 ---
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=avemaryplus&theme=tokyonight)](https://github.com/avemaryplus/github-readme-stats)
+ <img height="195px" alt="webDev's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=avemaryplus&theme=algolia&layout=compact" />
